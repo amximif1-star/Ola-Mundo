@@ -1,4 +1,4 @@
 # Olá, Mundo!
- Primeiro repositório
+ Primeiro repositório.
 
- Repositório criado em aula
+ Repositório criado em aula.
